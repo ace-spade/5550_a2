@@ -1,0 +1,28 @@
+body {
+  background-color: #00003b;
+}
+h1 {
+  color: #cc003b;
+  text-align: center;
+  font-family: Quicksand, sans-serif;
+  font-size: 40px;
+}
+h2 {
+  color: #99003b;
+  text-align: center;
+  font-family:  Quicksand, sans-serif;
+  font-size: 32px;
+}
+h3 {
+  color: #66003b;
+  font-family:  Quicksand, sans-serif;
+  font-size: 24px;
+}
+p {
+  color: #99003b;
+  font-family: Quicksand, sans-serif;
+}
+a {
+  color: #cc003b;
+  font-family: Quicksand, sans-serif;
+}

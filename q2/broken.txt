@@ -1,0 +1,3 @@
+the script given by mailchimp doesn't work
+-the src attribute gives a url that can't be found, therefore the embed.js for the pop up can't be loaded
+-window.dojoRequire is not an actual function
